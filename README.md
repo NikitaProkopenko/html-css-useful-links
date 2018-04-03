@@ -49,9 +49,9 @@
 ### Оптимизация растровых и векторных изображений
 * [Оптимизация изображений.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru)
 * Веб-сервисы:
-** [TinyPNG — smart PNG and JPEG compression.](https://tinypng.com/)
-** [Optimizilla — the online image optimizer.](http://optimizilla.com/)
-** [SVGOMG - SVGO's Missing GUI.](https://jakearchibald.github.io/svgomg/)
+1. [TinyPNG — smart PNG and JPEG compression.](https://tinypng.com/)
+2. [Optimizilla — the online image optimizer.](http://optimizilla.com/)
+3. [SVGOMG - SVGO's Missing GUI.](https://jakearchibald.github.io/svgomg/)
 * Программы:
-** [ImageOptim для macOS.](https://imageoptim.com/mac)
-** [FileOptimizer для Windows.](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer)
+1. [ImageOptim для macOS.](https://imageoptim.com/mac)
+2. [FileOptimizer для Windows.](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer)
