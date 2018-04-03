@@ -30,3 +30,18 @@
 * [Стиль кода Академии HTML.](http://codeguide.academy/html-css.html)
 * [Code Guide by @mdo.](http://codeguide.co/)
 * [Google HTML/CSS Style Guide.](https://google.github.io/styleguide/htmlcssguide.html)
+
+### Фотошоп для верстальщика:
+* [Фотошоп для верстальщика.](https://htmlacademy.ru/blog/51-photoshop-for-the-coders)
+* [Альтернативный текст для изображений.](http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html)
+* [О чём должен помнить веб-дизайнер.](https://github.com/nicothin/web-design)
+* [15 самых употребляемых типографических терминов.](https://godesigner.ru/posts/view/175/)
+
+### Растровые и векторные изображения:
+* [Растровая и векторная графика.](https://htmlacademy.ru/blog/111-rastr-vector)
+* [Форматы изображений.](https://htmlacademy.ru/blog/113-image-formats)
+* [Как отличить контентное изображение от декоративного.](https://htmlacademy.ru/blog/153-content-or-decor-img)
+* [Про PNG.](https://www.artlebedev.ru/technogrette/img/png-1/)
+* [Формат SVG.](http://css.yoksel.ru/svg/)
+* [SVG: группировка и переиспользование элементов.](http://css.yoksel.ru/svg-groups-use/)
+* [Как правильно вставлять SVG.](https://htmlacademy.ru/shorts/4)
