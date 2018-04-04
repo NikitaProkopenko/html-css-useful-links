@@ -113,3 +113,16 @@
 ### Блочно-строчные элементы (display: inline-block):
 * [Приёмы борьбы с пробелами между блочно-строчными элементами.](https://htmlacademy.ru/blog/21)
 * [Выравнивание элементов.](https://css-tricks.com/centering-css-complete-guide/)
+
+### Pixel Perfect:
+* [Расширение для браузеров.](http://www.welldonecode.com/perfectpixel/)
+* [Как попасть в макет и не сойти с ума](https://isqua.ru/blog/2016/05/30/kak-popast-v-makiet-i-nie-soiti-s-uma/?utm_source=htmlacademy&utm_medium=cpc&utm_campaign=htmlacademy-adaptive-check)
+
+### z-index:
+* [My approach to using z-index.](https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c)
+
+### Векторная графика:
+* [Блог Юлии Бухваловой про SVG](http://css.yoksel.ru/tags/#svg)
+* [Как правильно вставлять SVG](https://htmlacademy.ru/shorts/4)
+* [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/)
+* [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
