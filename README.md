@@ -71,3 +71,18 @@
 * [Жми сюда!](https://www.youtube.com/watch?v=MWJKwn_gKR4)
 * [WCAG 2.0, или боль доступного веба.](https://www.youtube.com/watch?v=ETw8uUr6Q7g)
 * [Людоедский интерфейс.](https://www.youtube.com/watch?v=ssJsjGZE2sc)
+
+### Работа с веб-шрифтами:
+* [Подключение нестандартных шрифтов. Часть первая.](http://webfont.ru/blog/about-font-face-part-one/)
+* [Подключение нестандартных шрифтов. Часть вторая.](http://webfont.ru/blog/about-font-face-part-two/)
+* [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+
+### Normalize.css:
+* [Зачем использовать normalize.css?](https://htmlacademy.ru/blog/64-about-normalize-css)
+
+### HTML Шорты:
+* [Нормальный сброс.](https://www.youtube.com/watch?v=KGYmOlNteas&t=48s)
+
+### Спецификация в CSS:
+* [Что нужно знать, чтобы готовить свои черновики спецификаций.](https://www.youtube.com/watch?v=Z9of2cj28hY)
+* [А что если мы долетим и там будет всё?](https://vk.com/sergeytovarov?z=video1238505_456239150%2Fvideos1238505%2Fpl_1238505_-2)
