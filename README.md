@@ -55,3 +55,19 @@
 #### Программы:
 * [ImageOptim для macOS.](https://imageoptim.com/mac)
 * [FileOptimizer для Windows.](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer)
+
+### Статьи о доступности:
+* [Рекомендации по разработке сайтов для людей с нарушениями зрения.](http://weblind.ru/)
+* [Как фокус помогает.](https://htmlacademy.ru/shorts/10)
+* [Как прятать.](https://htmlacademy.ru/shorts/12)
+* [Hiding DOM elements.](https://allyjs.io/tutorials/hiding-elements.html)
+* [WebAIM: keyboard accessibility.](https://webaim.org/techniques/keyboard/)
+* [Using NVDA to evaluate web accessibility.](https://webaim.org/articles/nvda/)
+* [Спецификация WAI-ARIA 1.1.](https://www.w3.org/TR/wai-aria-1.1/)
+* [Alt-texts: The Ultimate Guide.](https://axesslab.com/alt-texts/)
+
+### Доступность - Видео с конференций:
+* [Особенности веб-интерфейса при работе со скринридером.](https://www.youtube.com/watch?v=2nSib5UuR_g)
+* [Жми сюда!](https://www.youtube.com/watch?v=MWJKwn_gKR4)
+* [WCAG 2.0, или боль доступного веба.](https://www.youtube.com/watch?v=ETw8uUr6Q7g)
+* [Людоедский интерфейс.](https://www.youtube.com/watch?v=ssJsjGZE2sc)
