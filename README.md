@@ -161,3 +161,15 @@
 * [Выразительный JavaScript.](https://www.gitbook.com/book/karmazzin/eloquentjavascript_ru)
 * [Справочник Mozilla Developer Network.](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 * [Современный учебник JavaScript.](http://learn.javascript.ru/)
+
+### Прогрессивное улучшение:
+* [Progressive enhancement](https://htmlacademy.ru/blog/7-progressive-enhancement)
+* [Так ли дорого прогрессивное улучшение?](https://htmlacademy.ru/blog/8-is-it-expensive-to-progressive-enhancement)
+* [Progressive Enhancement and CSS](https://vimeo.com/194815985)
+* [What about CSS? Progressive Enhancement & CSS](https://speakerdeck.com/ireade/what-about-css-progressive-enhancement-and-css)
+* [Graceful degradation](https://htmlacademy.ru/blog/6-graceful-degradation)
+* [Progressive enhancement: практичный подход к современной кроссбраузерной разработке. Видео доклада и презентация.](https://events.yandex.ru/lib/talks/373/)
+* [У всех есть JavaScript, да?](https://github.com/FrontenderMagazine/everyone-has-js/blob/master/rus.md)
+* «Браузеры наши меньшие» [слайды](http://wsd.events/2015/06/20/pres/little-browsers/) и [видеозапись доклада.](https://vimeo.com/151208337)
+* [Демонстрация «Прогрессивное улучшение на примере формы входа».](https://htmlacademy.ru/demos/1)
+* [Building Social: A Case Study On Progressive Enhancement](https://www.smashingmagazine.com/2016/09/building-social-a-case-study-on-progressive-enhancement/)
