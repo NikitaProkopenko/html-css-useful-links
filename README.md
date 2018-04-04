@@ -46,13 +46,13 @@
 * [SVG: группировка и переиспользование элементов.](http://css.yoksel.ru/svg-groups-use/)
 * [Как правильно вставлять SVG.](https://htmlacademy.ru/shorts/4)
 
-### Оптимизация растровых и векторных изображений
+### Оптимизация растровых и векторных изображений:
 * [Оптимизация изображений.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru)
-#### Веб-сервисы: 
+#### Веб-сервисы
 * [TinyPNG — smart PNG and JPEG compression.](https://tinypng.com/)
 * [Optimizilla — the online image optimizer.](http://optimizilla.com/)
 * [SVGOMG - SVGO's Missing GUI.](https://jakearchibald.github.io/svgomg/)
-#### Программы:
+#### Программы
 * [ImageOptim для macOS.](https://imageoptim.com/mac)
 * [FileOptimizer для Windows.](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer)
 
