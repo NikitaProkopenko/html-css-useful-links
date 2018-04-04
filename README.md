@@ -126,3 +126,18 @@
 * [Как правильно вставлять SVG](https://htmlacademy.ru/shorts/4)
 * [SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/)
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
+
+### Тонкости некоторых свойств:
+* Целая книга на русском про [тонкости строчных элементов.](http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html)
+* [The vertical-align property.](http://bitsofco.de/the-vertical-align-property/)
+* [Блеск и нищета стандартных селектов.](http://habrahabr.ru/company/htmlacademy/blog/257743/)
+* [The truth about !important.](http://meiert.com/en/blog/20150310/important/)
+* [Псевдоэлементы, которых не может быть.](http://css-live.ru/articles-css/impossible-pseudos.html)
+* [Pure CSS: Accessible Checkboxes and Radios Buttons.](https://medium.com/claritydesignsystem/pure-css-accessible-checkboxes-and-radios-buttons-54063e759bb3#.c7bogvf04)
+
+### Работа с префиксами:
+* [What CSS to prefix?](http://shouldiprefix.com/)
+* [Автопрефиксер онлайн.](https://autoprefixer.github.io/ru/)
+
+### Переполнение:
+* [Краш-тест вёрстки.](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
