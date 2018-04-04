@@ -141,3 +141,23 @@
 
 ### Переполнение:
 * [Краш-тест вёрстки.](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
+
+### Основы JavaScript:
+* [Что такое DOM?](https://developer.mozilla.org/ru/docs/DOM/DOM_Reference/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+
+### Работа с клавиатурой:
+* [Клавиатурные события.](https://developer.mozilla.org/ru/docs/Web/Events)
+* [Как узнать код клавиши.](http://keycod.es/)
+
+### Несколько статей на выходные:
+* [Улучшаем опыт взаимодействия с формам.](http://simonenko.su/38146501854/improving-ux-for-web-form)
+* [Принципы анимации для веба.](https://habrahabr.ru/company/htmlacademy/blog/255583/)
+* [Цена использования фреймворков.](https://habrahabr.ru/company/mailru/blog/273613/)
+* [Выставление рейтинга без JavaScript.](https://eugeno.ru/%D0%B1%D0%BB%D0%BE%D0%B3/%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B0)
+* [Описание трюка с offsetWidth.](https://css-tricks.com/restart-css-animation/#article-header-id-0)
+
+### Что читать дальше:
+* [Книжка с носорогом.](https://www.ozon.ru/context/detail/id/141703512/?partner=htmlacademy)
+* [Выразительный JavaScript.](https://www.gitbook.com/book/karmazzin/eloquentjavascript_ru)
+* [Справочник Mozilla Developer Network.](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+* [Современный учебник JavaScript.](http://learn.javascript.ru/)
