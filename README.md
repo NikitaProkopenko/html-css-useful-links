@@ -86,3 +86,30 @@
 ### Спецификация в CSS:
 * [Что нужно знать, чтобы готовить свои черновики спецификаций.](https://www.youtube.com/watch?v=Z9of2cj28hY)
 * [А что если мы долетим и там будет всё?](https://vk.com/sergeytovarov?z=video1238505_456239150%2Fvideos1238505%2Fpl_1238505_-2)
+
+### Блочная модель:
+* [Интерактивная диаграмма блочной модели документа.](http://codepen.io/carolineartz/full/ogVXZj/)
+* [Организация отступов в верстке (margin/padding)](https://habrahabr.ru/post/340420/) — статья про один из возможных подходов
+* [Границы и отступы в потоке.](http://softwaremaniacs.org/blog/2005/09/05/css-layout-flow-margins)
+
+### Обзор флексбоксов:
+* Флексбокс, теперь понятно — [видео, презентация.](http://pepelsbey.net/pres/flexbox-gotcha/)
+* [Flexbox cheat sheet.](http://yoksel.github.io/flex-cheatsheet/)
+* [Solved by flexbox.](http://philipwalton.github.io/solved-by-flexbox)
+* [Harnessing flexbox for today’s web apps.](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
+* [Flexbox playground.](http://codepen.io/enxaneta/full/adLPwv/)
+* [A Complete Guide to Flexbox.](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+* [Визуальное руководство по свойствам Flexbox из CSS3.](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
+
+### Игры, помогающие понять флексбоксы:
+* [Flexbox defense.](http://www.flexboxdefense.com/)
+* [Flexbox froggy.](http://flexboxfroggy.com/)
+
+### Плавающие элементы (float). На случай, если столкнётесь при поддержке:
+* [Раскладка в CSS](http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/) — старая, но подробная статья про флоаты.
+* [Флоатомания: разъяснение как работает CSS-свойство float.](http://habrahabr.ru/post/136588/)
+* [All about floats.](https://css-tricks.com/all-about-floats/)
+
+### Блочно-строчные элементы (display: inline-block):
+* [Приёмы борьбы с пробелами между блочно-строчными элементами.](https://htmlacademy.ru/blog/21)
+* [Выравнивание элементов.](https://css-tricks.com/centering-css-complete-guide/)
