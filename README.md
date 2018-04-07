@@ -173,3 +173,24 @@
 * «Браузеры наши меньшие» [слайды](http://wsd.events/2015/06/20/pres/little-browsers/) и [видеозапись доклада.](https://vimeo.com/151208337)
 * [Демонстрация «Прогрессивное улучшение на примере формы входа».](https://htmlacademy.ru/demos/1)
 * [Building Social: A Case Study On Progressive Enhancement](https://www.smashingmagazine.com/2016/09/building-social-a-case-study-on-progressive-enhancement/)
+
+### Тестирование и оптимизация:
+* [Яндекс Радар](https://radar.metrika.yandex/browsers)
+* [Simulate Mobile Devices with Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
+* [Microsoft Edge VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+* [Optimizing Content Efficiency](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/)
+* [Polyfill.io](https://polyfill.io/)
+
+### Определение возможностей, которые можно использовать в браузере:
+* [Can I Use](http://caniuse.com/)
+* [Modernizr](http://modernizr.com/)
+
+### Минификаторы:
+* [Минификатор для CSS](http://css.github.io/csso/csso.html)
+* [Минификатор для JavaScript](https://jscompress.com/)
+
+### Префиксование:
+* [Онлайн автопрефиксер](http://autoprefixer.github.io/ru/)
+
+### Модульные сетки:
+* [Модульная сетка](http://gutdesign.ru/blog/16-modulnaya-setka/)
